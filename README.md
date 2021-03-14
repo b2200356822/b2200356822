@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fevzi</h1>
 
 - 🌱 I’m currently learning Java, C++, C#
-- 📫 İf you want to rach me b2200356822@cs.hacettepe.edu.tr or fevzikilas@hacettepe.edu.tr
+- 📫 İf you want to reach me b2200356822@cs.hacettepe.edu.tr or fevzikilas@hacettepe.edu.tr
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> Especially NumPy, Pandas, SciPy, Matplotlib, SciKit-Learn, SymPy.   </p>
